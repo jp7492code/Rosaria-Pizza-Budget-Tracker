@@ -24,6 +24,3 @@ A simple C++ application to track personal expenses. Users can add, remove, and 
    ```bash
    ./budgettracker
    ```
-
-## License
-MIT License
