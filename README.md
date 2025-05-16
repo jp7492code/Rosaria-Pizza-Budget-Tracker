@@ -1,4 +1,4 @@
-# Rosaria-Pizza-Budget-Tracker
+# Budget-Tracker
 ## Description
 A C++ application to track personal expenses. Users can add, remove, and view their transactions, generate summaries, and visualize spending patterns.
 
